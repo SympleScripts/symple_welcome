@@ -38,7 +38,7 @@ A welcome ped system that greets new players and provides directions to their ap
 
 ## Installation
 
-1. Place this resource in your `resources/[standalone]/` folder
+1. Place this resource in your `resources/[standalone]/` or add it in your resources folder. If you add to your resources folder, you will need to ensure it on your server.cfg
 2. Add `ensure symple_welcome` to your server.cfg
 3. Restart your server
 
